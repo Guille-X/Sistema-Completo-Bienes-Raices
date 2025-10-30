@@ -5,7 +5,7 @@ dimensiones, servicios públicos y otros factores
 
 ## ***Funcionalidades principales***
 
-Gestión de documentos valuados:consulta y visualización de documentos técnicos con datos estructurados.
+Gestión de documentos valuados: Consulta y visualización de documentos técnicos con datos estructurados.
 
 Registro de referenciales: ingreso de comparables con cálculo automático de valor del suelo y valor por metro cuadrado.
 
@@ -17,7 +17,7 @@ Selección de departamento y municipio: combobox dependiente para geolocalizaci�
 
 ## Control de acceso por roles:
 
-Roles como admin, evaluador, invitado, etc.
+Roles como Administrador, Valuador y Tecnico.
 
 Restricción de rutas y acciones según permisos.
 
